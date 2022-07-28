@@ -1,0 +1,1 @@
+# Implementation-of-Dimensionality-Reduction-Techniques-using-Principal-Component-Analysis-on-MNIST-DA
